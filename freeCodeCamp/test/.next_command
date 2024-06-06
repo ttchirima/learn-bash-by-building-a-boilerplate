@@ -189,3 +189,4 @@ rmdir. /client/icons
 __vsc_prompt_cmd_original
 rmdir ./client/icons
 mkdir ./client/assets/icons
+mv CodeAlly.svg ./client/assets/icons
