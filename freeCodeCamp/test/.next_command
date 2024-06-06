@@ -135,3 +135,5 @@ find
 cd client
 mkdir assests
 mkdir assets
+ssed assets
+cd assets
