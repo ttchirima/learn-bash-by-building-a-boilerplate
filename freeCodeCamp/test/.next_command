@@ -96,3 +96,4 @@ ls --color=auto
 rm style.css
 rm background.jpg
 ls --color=auto
+cp header.png images
