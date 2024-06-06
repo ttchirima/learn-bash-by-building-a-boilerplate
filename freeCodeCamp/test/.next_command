@@ -137,3 +137,4 @@ mkdir assests
 mkdir assets
 ssed assets
 cd assets
+mkdir images
