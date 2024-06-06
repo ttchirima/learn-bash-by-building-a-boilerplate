@@ -97,3 +97,4 @@ rm style.css
 rm background.jpg
 ls --color=auto
 cp header.png images
+cp footer.jpeg images
