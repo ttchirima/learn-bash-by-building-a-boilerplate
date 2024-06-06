@@ -180,3 +180,4 @@ rmdir ./client/assets
 rmdir ./client/assests
 rmdir ./images
 rm ./images/background.jpg
+rmdir ./images
